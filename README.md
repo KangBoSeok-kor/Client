@@ -1,2 +1,2 @@
 # Client
-LG UPLUS URECA 종합 프로젝트 4조 DearPet FE
+LG UPLUS URECA 종합 프로젝트 4조 CarePet FE
